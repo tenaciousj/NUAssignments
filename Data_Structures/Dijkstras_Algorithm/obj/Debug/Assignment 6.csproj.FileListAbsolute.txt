@@ -1,0 +1,29 @@
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\Assignment 6.csprojResolveAssemblyReference.cache
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\MainWindow.baml
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\MainWindow.g.cs
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\App.g.cs
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4_MarkupCompile.cache
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4.g.resources
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS_214_Assignment_4.Properties.Resources.resources
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\Assignment 6.csproj.GenerateResource.Cache
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\bin\Debug\EECS 214 Assignment 4.exe.config
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\bin\Debug\EECS 214 Assignment 4.exe
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\bin\Debug\EECS 214 Assignment 4.pdb
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4.exe
+C:\Users\Amartya\Documents\Examples\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4.pdb
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\bin\Debug\EECS 214 Assignment 4.exe.config
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\bin\Debug\EECS 214 Assignment 4.exe
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\bin\Debug\EECS 214 Assignment 4.pdb
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\Assignment 6.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\MainWindow.baml
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\MainWindow.g.cs
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\App.g.cs
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4_MarkupCompile.cache
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4.g.resources
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS_214_Assignment_4.Properties.Resources.resources
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\Assignment 6.csproj.GenerateResource.Cache
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4.exe
+\\psf\Home\Downloads\EECS 214 Assignment 6\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4.pdb
+C:\Users\Amartya\Documents\Assignments\Assignment 7\EECS 214 Assignment 2\bin\Debug\EECS 214 Assignment 4.exe.config
+C:\Users\Amartya\Documents\Assignments\Assignment 7\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4.exe
+C:\Users\Amartya\Documents\Assignments\Assignment 7\EECS 214 Assignment 2\obj\Debug\EECS 214 Assignment 4.pdb

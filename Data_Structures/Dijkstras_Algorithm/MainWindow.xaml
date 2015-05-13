@@ -1,0 +1,29 @@
+﻿<Window x:Class="Assignment_7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Visualization" Height="558.209" Width="773.135" Background="White" ResizeMode="NoResize">
+    <StackPanel HorizontalAlignment="Center" Width="700">
+        <Canvas x:Name="canvas" Height="380" Background="white" IsHitTestVisible="True" Margin="40,0,40,5"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="165"/>
+                <ColumnDefinition Width="Auto" MinWidth="46"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto" MinWidth="197"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="21*"/>
+                <ColumnDefinition Width="20*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="From:"  Grid.Row="1" Grid.Column="0" Margin="20,10,164,0" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="fromInput" Grid.Row="1" Grid.Column="1" Margin="11,10,8,0"/>
+            <Label Content="To:" Grid.Row="1" Grid.Column="3" Margin="13,10,111,0"/>
+            <TextBox x:Name="toInput" Grid.Row="1" Grid.Column="3" Margin="44,10,144,0" Grid.ColumnSpan="2"/>
+            <Button x:Name="searchRouteBtn" Content ="Find Route" Grid.Row="1" Grid.Column="4" Margin="0,10,55,0" HorizontalAlignment="Right" Width="64"/>
+        </Grid>
+    </StackPanel>
+</Window>
