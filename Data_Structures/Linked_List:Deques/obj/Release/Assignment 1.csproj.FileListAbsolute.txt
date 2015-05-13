@@ -1,4 +1,0 @@
-C:\Users\Jeanette\Desktop\EECS 214\EECS 214 Assignment 1\Assignment 1\bin\Release\Assignment 1.exe
-C:\Users\Jeanette\Desktop\EECS 214\EECS 214 Assignment 1\Assignment 1\bin\Release\Assignment 1.pdb
-C:\Users\Jeanette\Desktop\EECS 214\EECS 214 Assignment 1\Assignment 1\obj\Release\Assignment 1.exe
-C:\Users\Jeanette\Desktop\EECS 214\EECS 214 Assignment 1\Assignment 1\obj\Release\Assignment 1.pdb
