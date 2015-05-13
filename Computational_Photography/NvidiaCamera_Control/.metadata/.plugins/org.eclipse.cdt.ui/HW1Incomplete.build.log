@@ -1,0 +1,7 @@
+13:37:20 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+
+13:37:22 Build Finished (took 1s.186ms)
+

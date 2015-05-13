@@ -1,0 +1,460 @@
+11:39:01 **** Clean-only build of configuration Default for project HW1Incomplete ****
+ndk-build clean 
+Cannot run program "ndk-build": Unknown reason
+
+Error: Program "ndk-build" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+11:39:26 **** Build of configuration Default for project HW1Incomplete ****
+ndk-build all 
+Cannot run program "ndk-build": Unknown reason
+
+Error: Program "ndk-build" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+11:42:10 **** Incremental Build of configuration Default for project HW1Incomplete ****
+ndk-build all 
+Cannot run program "ndk-build": Unknown reason
+
+Error: Program "ndk-build" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+11:42:32 **** Incremental Build of configuration Default for project HW1Incomplete ****
+ndk-build all 
+Cannot run program "ndk-build": Unknown reason
+
+Error: Program "ndk-build" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+11:42:36 **** Incremental Build of configuration Default for project HW1Incomplete ****
+ndk-build all 
+Cannot run program "ndk-build": Unknown reason
+
+Error: Program "ndk-build" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+12:08:18 **** Incremental Build of configuration Default for project HW1Incomplete ****
+ndk-build all 
+Cannot run program "ndk-build": Unknown reason
+
+Error: Program "ndk-build" not found in PATH
+PATH=[/usr/bin:/bin:/usr/sbin:/sbin]
+12:11:36 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+Android NDK: WARNING: Ignoring unknown import directory:  /User/jeanettepranin1/Desktop/EECS 395    
+Android NDK: jni/external/nvapp/Android.mk: Cannot find module with tag 'native_camera2' in import path    
+jni/Android.mk:19: *** Android NDK: Aborting.    .  Stop.
+Android NDK: Are you sure your NDK_MODULE_PATH variable is properly defined ?    
+Android NDK: The following directories were searched:    
+Android NDK:         
+12:11:56 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+Android NDK: WARNING: Ignoring unknown import directory:  /User/jeanettepranin1/Desktop/EECS 395    
+jni/Android.mk:18: *** Android NDK: Aborting.    .  Stop.
+Android NDK: jni/external/nvapp/Android.mk: Cannot find module with tag 'native_camera2' in import path    
+Android NDK: Are you sure your NDK_MODULE_PATH variable is properly defined ?    
+Android NDK: The following directories were searched:    
+Android NDK:         
+12:12:37 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+Android NDK: WARNING: Ignoring unknown import directory:  /User/jeanettepranin1/Desktop/EECS\ 395/    
+Android NDK: jni/external/nvapp/Android.mk: Cannot find module with tag 'native_camera2' in import path    
+jni/Android.mk:18: *** Android NDK: Aborting.    .  Stop.
+Android NDK: Are you sure your NDK_MODULE_PATH variable is properly defined ?    
+Android NDK: The following directories were searched:    
+Android NDK:         
+12:13:44 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+Android NDK: WARNING: Ignoring unknown import directory:  /User/jeanettepranin1/Desktop/EECS_395/    
+Android NDK: jni/external/nvapp/Android.mk: Cannot find module with tag 'native_camera2' in import path    
+jni/Android.mk:18: *** Android NDK: Aborting.    .  Stop.
+Android NDK: Are you sure your NDK_MODULE_PATH variable is properly defined ?    
+Android NDK: The following directories were searched:    
+Android NDK:         
+12:14:33 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+Android NDK: WARNING: Ignoring unknown import directory:  E:/tutorials/    
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/build/core/prebuilt-library.mk:45: *** Android NDK: Aborting    .  Stop.
+Android NDK: ERROR:jni/external/nvapp/Android.mk:nvappbase: LOCAL_SRC_FILES points to a missing file    
+Android NDK: Check that E:/NVPACK/Samples/GameWorks_Samples/extensions/lib/Tegra-Android/libNvAppBaseD.a exists  or that its path is correct   
+12:21:42 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:34:20 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:34:30 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:34:50 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:35:26 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:42:52 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:49:35 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:49:39 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:49:51 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:50:35 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+12:50:54 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:51:49 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+12:52:09 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:52:47 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+12:52:51 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:53:46 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:58:36 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:58:47 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+12:59:24 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+12:59:25 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:02:03 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:02:41 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:03:19 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+13:03:19 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:03:28 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:04:14 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:04:15 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:04:17 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:04:35 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+13:04:35 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:04:45 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:04:47 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:06:17 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:11:15 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:11:17 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:22:23 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+13:22:23 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:22:36 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:22:47 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:23:32 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:23:53 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:24:52 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:31:08 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+13:31:09 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:31:28 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:35:08 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+13:35:09 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:35:32 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:35:42 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:37:08 **** Clean-only build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build clean 
+[armeabi-v7a] Clean          : NativeCamera [armeabi-v7a]
+[armeabi-v7a] Clean          : external_half [armeabi-v7a]
+[armeabi-v7a] Clean          : external_r3 [armeabi-v7a]
+[armeabi-v7a] Clean          : external_regal [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_shared [armeabi-v7a]
+[armeabi-v7a] Clean          : gnustl_static [armeabi-v7a]
+[armeabi-v7a] Clean          : native_camera2 [armeabi-v7a]
+[armeabi-v7a] Clean          : nvappbase [armeabi-v7a]
+[armeabi-v7a] Clean          : nvassetloader [armeabi-v7a]
+[armeabi-v7a] Clean          : nveglutil [armeabi-v7a]
+[armeabi-v7a] Clean          : nvgamepad [armeabi-v7a]
+[armeabi-v7a] Clean          : nvglutils [armeabi-v7a]
+[armeabi-v7a] Clean          : nvmodel [armeabi-v7a]
+[armeabi-v7a] Clean          : nvui [armeabi-v7a]
+13:37:08 **** Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Compile++ thumb: NativeCamera <= NativeCamera.cpp
+[armeabi-v7a] Compile++ thumb: NativeCamera <= ImageSave.cpp
+[armeabi-v7a] Prebuilt       : libnative_camera2.so <= /Users/jeanettepranin1/Desktop/EECS_395/native_camera2/prebuilt/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libNativeCamera.so
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:37:17 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
+13:37:20 **** Incremental Build of configuration Default for project HW1Incomplete ****
+/Users/jeanettepranin1/NvidiaGameworks/android-ndk-r10/ndk-build all 
+[armeabi-v7a] Install        : libNativeCamera.so => libs/armeabi-v7a/libNativeCamera.so
+[armeabi-v7a] Install        : libnative_camera2.so => libs/armeabi-v7a/libnative_camera2.so
