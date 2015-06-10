@@ -1,1 +1,0 @@
-The Redux version fills in some holes and makes more sense. Watch that version if you can.
